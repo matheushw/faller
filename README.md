@@ -3,6 +3,11 @@ Faller is a project that aims to detect people falling. Inside the application, 
 
 <img src="https://user-images.githubusercontent.com/26571713/200194815-ca3879ee-2799-43ce-8039-d09a467c68ce.jpg" width="288"> <img src="https://user-images.githubusercontent.com/26571713/200194817-4fc0dad2-be7b-4726-98f9-e12c49857c49.jpg" width="288"> <img src="https://user-images.githubusercontent.com/26571713/200194831-85bc107e-2b57-4052-b009-605d95b7e339.jpg" width="288">
 
+## How to run the app?
+1. Install and set up Flutter 3.0.0 installed in your machine and clone this repo.
+2. Inside the project root run `flutter pub get` to dowload all the app dependencies.
+3. Open an smartphone emulator or simply connect a smartphone to your pc and run `flutter run`
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
